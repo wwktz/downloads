@@ -1,11 +1,12 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "mail.ustc.cn",
-        "mail.ustc.edu.cn"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain": [
+                "mail.ustc.cn",
+                "mail.ustc.edu.cn",
+                "mail.cstnet.cn"
+            ]
+        }
+    ]
 }
