@@ -3,9 +3,10 @@
     "rules": [
         {
             "domain": [
+                "mail.cstnet.cn",
                 "mail.ustc.cn",
                 "mail.ustc.edu.cn",
-                "mail.cstnet.cn"
+                "toscm.cn"
             ]
         }
     ]
