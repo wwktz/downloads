@@ -1,14 +1,15 @@
 {
-    "version": 1,
-    "rules": [
-        {
-            "domain": [
-                "mail.cstnet.cn",
-                "mail.ustc.cn",
-                "mail.ustc.edu.cn",
-                "toscm.cn",
-                "speedtest.cn"
-            ]
-        }
-    ]
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "mail.cstnet.cn",
+        "mail.ustc.cn",
+        "mail.ustc.edu.cn",
+        "speedtest.cn",
+        "speedtest.net",
+        "toscm.cn"
+      ]
+    }
+  ]
 }
