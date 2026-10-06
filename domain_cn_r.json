@@ -70,19 +70,6 @@
             "domain_suffix": [
                 "gov.cn"
             ]
-        },
-        {
-            "domain": [
-                "gof-formal-avatar.akamaized.net",
-                "rtm-intl-frontgate.ilivedata.com",
-                "centurygames.helpshift.com",
-                "ir-sdk-usva.dun.163.com"
-            ],
-            "domain_suffix": [
-                "centurygame.com",
-                "centurygames.com",
-                "centurygames.net"
-            ]
         }
     ]
 }
