@@ -1,75 +1,14 @@
 {
-    "version": 1,
-    "rules": [
-        {
-            "domain": [
-                "mail.cstnet.cn",
-                "mail.ustc.cn",
-                "mail.ustc.edu.cn",
-                "speedtest.cn",
-                "toscm.cn"
-            ]
-        },
-        {
-            "domain": [
-                "msfhttp.3g.qq.com",
-                "msfwifi.3g.qq.com",
-                "msfwifiv6.3g.qq.com",
-                "msfxg.3g.qq.com",
-                "msfxgv6.3g.qq.com",
-                "relayserver.qq.com",
-                "relayserver2.qq.com",
-                "relayserverv6.qq.com",
-                "relayserver2v6.qq.com",
-                "gchat.qpic.cn",
-                "c2cpicdw.qpic.cn",
-                "p.qpic.cn",
-                "p.qlogo.cn",
-                "q.qlogo.cn",
-                "qh.qlogo.cn",
-                "q1.qlogo.cn",
-                "q2.qlogo.cn",
-                "q4.qlogo.cn",
-                "thirdqq.qlogo.cn",
-                "qqpatch.gtimg.cn",
-                "grouppro.gtimg.cn",
-                "groupprohead.gtimg.cn",
-                "qzonestyle.gtimg.cn"
-            ],
-            "domain_suffix": [
-                "im.qq.com",
-                "imqq.com",
-                "idqqimg.com",
-                "msf.qq.com",
-                "nt.qq.com",
-                "ntlogin.qq.com",
-                "ntsdk.qq.com",
-                "ptlogin2.qq.com",
-                "wtlogin.qq.com",
-                "accounts.qq.com",
-                "connect.qq.com",
-                "qun.qq.com",
-                "group.qq.com",
-                "c2c.qq.com",
-                "qfile.qq.com",
-                "file.qq.com",
-                "ftn.qq.com",
-                "htdata.qq.com",
-                "htdata2.qq.com",
-                "htdata3.qq.com",
-                "qzone.qq.com",
-                "qqweb.qq.com",
-                "pd.qq.com",
-                "ti.qq.com",
-                "static-res.qq.com",
-                "staticfile.qq.com",
-                "qq.com"
-            ]
-        },
-        {
-            "domain_suffix": [
-                "gov.cn"
-            ]
-        }
-    ]
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "mail.cstnet.cn",
+        "mail.ustc.edu.cn"
+      ]
+    },
+    {
+      "domain_suffix": "gov.cn"
+    }
+  ]
 }
