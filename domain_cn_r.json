@@ -9,6 +9,15 @@
     },
     {
       "domain_suffix": "gov.cn"
+    },
+    {
+      "domain_suffix": [
+        "10jqka.com.cn",
+        "hexin.cn",
+        "hexin.com.cn",
+        "myhexin.com",
+        "lczq.com"
+      ]
     }
   ]
 }
