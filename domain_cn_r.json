@@ -1,23 +1,24 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "mail.cstnet.cn",
-        "mail.ustc.edu.cn"
-      ]
-    },
-    {
-      "domain_suffix": "gov.cn"
-    },
-    {
-      "domain_suffix": [
-        "10jqka.com.cn",
-        "hexin.cn",
-        "hexin.com.cn",
-        "myhexin.com",
-        "lczq.com"
-      ]
-    }
-  ]
+    "version": 1,
+    "rules": [
+        {
+            "domain": [
+                "mail.cstnet.cn",
+                "mail.ustc.edu.cn"
+            ]
+        },
+        {
+            "domain_suffix": "gov.cn"
+        },
+        {
+            "domain_suffix": [
+                "10jqka.com.cn",
+                "hexin.cn",
+                "hexin.com.cn",
+                "lczq.com",
+                "myhexin.com",
+                "sd5eshell.hpccube.com"
+            ]
+        }
+    ]
 }
