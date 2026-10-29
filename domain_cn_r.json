@@ -13,11 +13,16 @@
         {
             "domain_suffix": [
                 "10jqka.com.cn",
+                "configsvr.msf.3g.qq.com",
                 "hexin.cn",
                 "hexin.com.cn",
                 "lczq.com",
+                "msf.3g.qq.com",
                 "myhexin.com",
-                "sd5eshell.hpccube.com"
+                "qq.com",
+                "s.tencent.com",
+                "sd5eshell.hpccube.com",
+                "tencent.com"
             ]
         }
     ]
